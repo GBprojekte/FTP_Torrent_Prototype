@@ -1,4 +1,4 @@
-# FTP_Torrent_Prototype
+# FTP Torrent Prototype
 Eine Art Programm das es ermöglicht von FTP Servern Dateien per link Ansammlungen herunterzuladen ähnlich wie bei Torrent
 
 <h1>Achtung</h1>
