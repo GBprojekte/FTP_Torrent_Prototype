@@ -1,8 +1,9 @@
 @echo off
+goto cli
+
+:cli
+echo Sie finden die gedownloadeten Dateien in Dokumente
 goto client
-
-
-
 
 
 
